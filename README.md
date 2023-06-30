@@ -13,5 +13,3 @@ My name is João Nunes, I am currently  a student @42 Porto.
 👸 - Father of a beautiful girl<br>
 
 ## This is my current status at school
-
-[![jmarinho's 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/jmarinho)
