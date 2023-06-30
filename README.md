@@ -12,5 +12,6 @@ My name is João Nunes, I am currently  a student @42 Porto.
 👨‍💼 - Vice-President of Clube Rugby Famalicao<br>
 👸 - Father of a beautiful girl<br>
 
-## My skills 🖥
+## This is my current status at school
 
+[![jmarinho's 42 stats](https://badge42.vercel.app/api/v2/cliecgu3i001108l40dwr9zlx/stats?cursusId=21&coalitionId=piscine)](https://profile.intra.42.fr/users/jmarinho)
