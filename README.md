@@ -4,13 +4,13 @@ My name is Joao Nunes, I am currently  a student @42 Porto.
 
 ## About me 📑
 
-🔌 - Mechatronics technician <br>
-💯 - On path to a carreer change
-👨‍💻 - Student at 42Porto
-💞 - Voluntary in a social solidarity store
-🏉 - Rugby player
-👨‍💼 - Vice-President of Clube Rugby Famalicao
-👸 - Father of a beautiful girl
+🔌 - Mechatronics technician<br>
+💯 - On path to a carreer change<br>
+👨‍💻 - Student at 42Porto<br>
+💞 - Voluntary in a social solidarity store<br>
+🏉 - Rugby player<br>
+👨‍💼 - Vice-President of Clube Rugby Famalicao<br>
+👸 - Father of a beautiful girl<br>
 
 ## My skills 🖥
 
