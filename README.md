@@ -14,4 +14,4 @@ My name is João Nunes, I am currently  a student @42 Porto.
 
 ## This is my current status at school
 
-[![jmarinho's 42 stats](https://badge.mediaplus.ma/colorfulwaves/jmarinho?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![jmarinho's 42 stats](https://badge.mediaplus.ma/kettlebells/jmarinho?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
