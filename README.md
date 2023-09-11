@@ -11,6 +11,7 @@ My name is João Nunes, I am currently  a student @42 Porto.
 🏉 - Rugby player<br>
 👨‍💼 - Vice-President of Clube Rugby Famalicao<br>
 👸 - Father of a beautiful girl<br>
+📫 - Reach me on [**LinkedIn**](https://www.linkedin.com/in/jpmnunes/)<br>
 
 ## This is my current status at school
 
