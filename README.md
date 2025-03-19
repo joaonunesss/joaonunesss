@@ -4,8 +4,7 @@ My name is João Nunes, I am currently  a student @42 Porto.
 
 ## About me 📑
 
-🔌 - Mechatronics technician<br>
-💯 - Software Developer<br>
+🖥️ - Software Developer<br>
 👨‍💻 - Student at 42Porto<br>
 💞 - Voluntary in a social solidarity store<br>
 🏉 - Rugby player<br>
