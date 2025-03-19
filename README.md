@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is João Nunes, I am currently  a student @42 Porto.
+My name is João Nunes, and I am a Software Developer.
 
 ## About me 📑
 
